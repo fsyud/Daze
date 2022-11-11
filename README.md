@@ -1,0 +1,2 @@
+# Daze
+A vscode plugin
